@@ -8,7 +8,7 @@
 ```typescript
  const KimCuong = {
   name: "Nguyen Hoang Kim Cuong",
-  age: 21,
+  age: 22,
   email: "nguyenhoangkimcuong02@gmail.com",
   pronouns: "he/him",
   hobbies: ["badminton", "programming", "music", "cartoon"],
